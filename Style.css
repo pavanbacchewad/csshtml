@@ -1,0 +1,112 @@
+.a{
+    background-color: aqua;
+    color: white;
+    margin: 10px;
+    border: 2px solid black;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    
+}
+
+.b{
+    background-color: aqua;
+    color: white;
+    border: 2px solid black;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.c{
+    background-color: aqua;
+    color: white;
+    border: 2px solid black;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+
+}
+
+.aa{
+    color: red;
+    background-color: aqua;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 4px;
+
+}
+
+
+.title{
+    color: red;
+    background-color: aqua;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.contact{
+    border: 2px solid black;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+}
+.send{
+    color: red;
+    border:2px solid black;
+    border-radius: 5px;
+    padding: 5px;
+}
+.reset{
+    color: red;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-left: 50px;
+    padding: 5px;
+}
+.thead{
+    color:red;
+    background-color: orange;
+    
+}
+.tbody{
+    color:white;
+    background-color: aqua;
+    padding: 5px;
+
+}
+.h2{
+    border:2px solid black;
+    text-align: center;
+    padding:10px 10px 10px 10px;
+    color:red;
+    background-color: orange;
+    border-radius: 10px;
+}
+.table{
+    margin-left: 50px;
+    margin-top: 50px;
+    padding: 2px;
+    border:2px solid black;
+}
+.navbar{
+    border: 2px solid black;
+    margin: 5px;
+    justify-content: space-evenly;
+    align-items: center;
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: orange;
+
+}
+
+.fieldset{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+.contactus{
+    border: 2px solid black;
+    padding: 10px;
+    background-color: orange;
+    border-radius: 10px;
+    text-align: center;
+}
